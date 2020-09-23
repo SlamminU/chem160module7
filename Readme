@@ -1,0 +1,23 @@
+Module 7 files
+The respository should start out containing the following files (these will be edited by you during module):
+log.data
+parselog.py
+rna2prot.py
+woods.txt
+
+Before uploading the completed module to your GitHub account, it should contain the following additional (or completed) files:
+dictionary.py
+atoms2.py
+atoms3.py
+students.py
+funcs.py
+strings.py
+palind.py
+stringtest.py
+palind2.py
+rna.py
+DNApalind.py
+rna2prot.py
+energy.py
+wordcount.py
+parselog.py
